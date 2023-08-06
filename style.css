@@ -1,0 +1,103 @@
+*{
+    flex-wrap: wrap;
+}
+
+
+
+.main{
+    margin: auto;
+    width: 340px;
+}
+body{
+    background-color: #f7f7f7;
+}
+
+.fb{
+    
+    color: #0f71f1;
+    line-height: 10px;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+
+}
+.class{
+    position: absolute;
+    top: 280px;
+    left: 150px;
+}
+header{
+    width: 210px;
+    height: 198px;
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    padding-top: 33px;
+    padding-left: 33px;
+    padding-bottom: 33px;
+    padding-right: 33px;
+    border-radius: 5px; 
+    box-shadow: 0px 0px 4px grey;
+    
+    
+
+    
+} 
+.box1 input{
+    width: 250px;
+    padding: 10px ;
+    position: relative;
+    right: 20px;
+    top: -20px;
+
+} 
+.box2 input{
+    width: 250px;
+    padding: 10px ;
+    position: relative;
+    right: 20px;
+    top: -28px
+}
+.link a{
+    text-align: center;
+    text-decoration: none;
+    color: #0f71f1;
+    position: relative;
+    left: 40px;
+    top: -25px;
+    font-size: 14px;
+    
+
+}
+button{
+    width: 250px;
+    padding: 10px ;
+    color: white;
+    background-color:1778f2;
+    border-radius: 3px;
+    border-color: #0f71f1;
+    position: relative;
+    right: 20px;
+    top: -38px;
+}
+.btn button{
+    background-color:#36a124;
+    border-color:#36a124;
+    width: 180px;
+    position: relative;
+    left: 10px;
+    top: -33;
+    
+
+}
+.line{
+    position: relative;
+    top: -40;
+}
+footer{
+    position: absolute;
+    top: 470px;
+    left: 550px;
+    font-size: small;
+}
